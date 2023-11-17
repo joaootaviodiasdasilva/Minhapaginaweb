@@ -1,26 +1,26 @@
 body {
-    background: white
+    background: blue
 }
 #titulo1 {
     text-align: center;
     font-size:50px;
-    color: black;}
+    color: yellow;}
 .p1 {
     text-align:justify;
     font-size: 20px;
-    color:black;}
+    color:yellow;}
 
 .p2 {
     text-align: justify;
     font-size: 20px;
-    color:black;}
+    color:yellow;}
 #img{
     display:block;
     margin: 0 auto;}
 #titulo2 {
     text-align:center;
     font: size 40px;
-    color:black;}
+    color:yellow;}
 .ul{
     display: inline-block;
     vertical-align:top;
@@ -34,9 +34,9 @@ body {
 header{
     text-align: center;
     font-size: 50px;
-    color:black;
+    color:yellow;
 } 
 .principal{
-    background:white;}
+    background:blue;}
 .beneficios{
-    background: white;}
+    background: blue;}
