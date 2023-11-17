@@ -1,0 +1,17 @@
+body {
+    background: brown
+}
+#titulo1 {
+    text-align: center;
+    font-size:50px;
+    color: black;}
+.p1 {
+    text-align:justify;
+    font-size: 20px;
+    color:chocolate;}
+
+.p2 {
+    text-align: justify;
+    font-size: 20px;
+    color:darkgoldenrod;}
+    
